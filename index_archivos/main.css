@@ -685,7 +685,10 @@ h5, .h5 { font-size: 15px; }
 
 h6, .h6 { font-size: 13px; }
 
-p { margin: 0 0 10.5px; }
+p { margin: 0 0 0px; font-size:17px; text-align:justify;}
+
+ul { margin: 0 0 0px; font-size:15px; text-align:justify;}
+li { margin: 0 0 0px; font-size:15px; text-align:justify;}
 
 .lead { margin-bottom: 21px; font-size: 17px; font-weight: 300; line-height: 1.4; }
 @media (min-width: 768px) { .lead { font-size: 22.5px; } }
