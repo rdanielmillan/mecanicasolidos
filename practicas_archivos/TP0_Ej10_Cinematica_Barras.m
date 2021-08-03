@@ -1,4 +1,4 @@
-% Mecanica de los Solidos - 2021 - FCAI-UNCuyo
+% Mecanica de los Solidos - FCAI-UNCuyo
 % 
 % Trabajo Practico 0 - Ejercicio 10
 %
